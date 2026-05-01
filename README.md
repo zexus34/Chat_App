@@ -472,7 +472,7 @@ ChatApp is licensed under the [MIT License](LICENSE), granting you the freedom t
 Have questions or ideas? Reach out by:
 
 - Opening an issue on GitHub.
-- Emailing [krotrn.ks@gmail.com](mailto:krotrn.ks@gmail.com).
+- Emailing [ajo91277@gmail.com](mailto:ajo91277@gmail.com).
 
 We're excited to hear from you!
 

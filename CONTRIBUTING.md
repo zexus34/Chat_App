@@ -152,7 +152,7 @@ By contributing to this project, you agree that your contributions will be licen
 
 ## Code of Conduct
 
-Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior to [krotrn.ks@gmail.com](mailtoo:krotrn.ks@gmail.com).
+Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report any unacceptable behavior to [ajo91277@gmail.com](mailtoo:ajo91277@gmail.com).
 
 ---
 
