@@ -5,7 +5,7 @@
 The application features advanced state management with Redux Toolkit, real-time communication through Socket.IO, server state management with React Query, and a responsive UI built with shadcn/ui components. It includes sophisticated connection recovery, health monitoring, and optimistic UI updates for the best user experience.
 
 ---
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/krotrn/Chat_App)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/zexus34/Chat_App)
 ## Table of Contents
 
 - [Features](#features)
@@ -198,7 +198,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/krotrn/chat-app.git
+   git clone https://github.com/zexus34/chat-app.git
    cd chat-app
    ```
 
@@ -218,7 +218,7 @@ Before you begin, ensure you have the following installed:
    NODE_ENV = "development"
    AUTH_SECRET = **********************************************************************
 
-   # from chat-backend at http://github.com/krotrn/chat-backend
+   # from chat-backend at http://github.com/zexus34/chat-backend
    NEXT_PUBLIC_API_BASE_URL = http://localhost:3000
 
    # Auth0 credentials for NextAuth
@@ -232,7 +232,7 @@ Before you begin, ensure you have the following installed:
    RESEND_FROM_EMAIL = ****************
    NEXT_PUBLIC_APP_NAME = "Chat App"
 
-   # similar to chat-backend chat-backend at http://github.com/krotrn/chat-backend
+   # similar to chat-backend chat-backend at http://github.com/zexus34/chat-backend
    JWT_SECRET = "your_jwt_secret_here"
 
    # for Encryption of verification code
@@ -422,7 +422,7 @@ The backend uses standardized response types for consistency:
 
 These types ensure strong typing throughout the application and provide a predictable API surface for frontend integration.
 
-For detailed API documentation, see [API_DOC.md](https://github.com/krotrn/ChatApp-backend/blob/main/API_DOC.md).
+For detailed API documentation, see [API_DOC.md](https://github.com/zexus34/ChatApp-backend/blob/main/API_DOC.md).
 
 ---
 
@@ -433,7 +433,7 @@ We'd love your help to make ChatApp even better! To contribute:
 1. **Fork the Repository**
 
    ```bash
-   git clone https://github.com/krotrn/chat-app.git
+   git clone https://github.com/zexus34/chat-app.git
    ```
 
 2. **Create a Feature Branch**

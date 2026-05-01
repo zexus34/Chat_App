@@ -29,7 +29,7 @@ Please take a few moments to review this guide before submitting your contributi
    Clone your fork to your local machine:
 
    ```bash
-   git clone https://github.com/krotrn/Chat_App.git
+   git clone https://github.com/zexus34/Chat_App.git
    ```
 
 3. **Create a New Branch:**  
@@ -50,7 +50,7 @@ Please take a few moments to review this guide before submitting your contributi
 If you encounter a bug, please help us by following these steps:
 
 1. **Search Existing Issues:**  
-   Before opening a new issue, please check the [issue tracker](https://github.com/krotrn/Chat_App/issues) to see if the bug has already been reported.
+   Before opening a new issue, please check the [issue tracker](https://github.com/zexus34/Chat_App/issues) to see if the bug has already been reported.
 
 2. **Create a New Issue:**
    - Use a clear and descriptive title.
